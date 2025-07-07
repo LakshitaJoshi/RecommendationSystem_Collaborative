@@ -10,5 +10,5 @@ To build a Recommendation System using Collaborative Filtering or Matrix Factori
 Collaborative Filtering
 
 ## Result
-(https://github.com/user-attachments/assets/bbdb3318-c769-4100-86c9-6cfffbcf66be)
+![{Image}](https://github.com/user-attachments/assets/bbdb3318-c769-4100-86c9-6cfffbcf66be)
 
